@@ -6,6 +6,12 @@ I will do my best to organize them but feel free to dig in and look them over yo
 Wiktionary gives the definition of Geodesy as follows
 >The discipline which deals with the measurement and representation of Earth, its gravitational field and geodynamic phenomena (polar motion, Earth tides, and crustal motion) in three-dimensional, time-varying space
 Much of what I do requires an understanding of mapping and coordinate systems so I have found myself collecting several references that cover various aspects of this subject
+* Geodesy for Layman [DMA TR 80-003](https://github.com/metiscus/references/blob/master/DMA_TR80-003.pdf)
+
+### General Coordinate Systems
+* Using Rotations to build Aerospace Coordinate Systems [DSTO-TN-0640](https://github.com/metiscus/references/blob/master/dsto-tn-0640.pdf)
+* Conversion of Geodetic Coordinates to the Local Tangent Plane [pdf](https://github.com/metiscus/references/blob/master/Latitude_to_LocalTangent.pdf)
+* IOGP Geomatics Note 7 [Coordinate Transformations](https://github.com/metiscus/references/blob/master/ogp_surveying_note.pdf)
 
 ### WGS84
 Wikipedia describes the WGS84 as follows
@@ -13,4 +19,4 @@ Wikipedia describes the WGS84 as follows
 I have put together some references on this topic, usually primary sources that are rather dry reading
 * Department of Defense World Geodetic System [DMA Technical Report 8350.2](https://github.com/metiscus/references/blob/master/ADA280358.pdf)
 * World Geodetic System 1984 Manual [ICAO Manual](https://github.com/metiscus/references/blob/master/REF08-Doc9674.pdf)
-* 
+
